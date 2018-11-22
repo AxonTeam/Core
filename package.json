@@ -1,0 +1,9 @@
+{
+  "name": "@axon/core",
+  "version": "1.0.0",
+  "description": "Core Module for EASE",
+  "main": "index.js",
+  "repository": "https://github.com/AxonTeam/Core.git",
+  "author": "Khaazz",
+  "license": "MIT"
+}
